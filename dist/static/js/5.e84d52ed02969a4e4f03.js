@@ -1,0 +1,2 @@
+webpackJsonp([5],{"Vc/l":function(t,e){},nU8l:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={render:function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"home"})},staticRenderFns:[]};var a=n("VU/8")({mounted:function(){this.$store.dispatch("SANNAV",[])}},s,!1,function(t){n("Vc/l")},"data-v-54f681aa",null);e.default=a.exports}});
+//# sourceMappingURL=5.e84d52ed02969a4e4f03.js.map
